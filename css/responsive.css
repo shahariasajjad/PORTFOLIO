@@ -1,0 +1,463 @@
+@media(min-width:1400px) {
+
+}
+
+
+@media(min-width:1200px) and (max-width:1399.98px) {
+    #banner_part .ban_style {
+        position: absolute;
+        bottom: 28px;
+        right: -13px;
+        width: 300px;
+    }
+}
+
+@media(min-width:992px) and (max-width:1199.98px) {
+    .ban_text h1 {
+        font-size: 50px;
+    }
+
+    #banner_part .ban_style {
+        bottom: 75px;
+        right: -35px;
+    }
+
+    .section_head h3 {
+        font-size: 38px;
+    }
+
+    .img_inner_2::after {
+        left: -15px;
+        bottom: -15px;
+    }
+
+    .about_li ul li {
+        font-size: 15px;
+    }
+
+    .about_text {
+        padding-top: 0px;
+    }
+
+    .img_inner_2 {
+        margin-top: 24px;
+    }
+
+    .test_img::after {
+        left: 15px;
+        top: 15px;
+    }
+    .tab_inner h3 {
+        font-size: 24px;
+    }
+}
+
+@media(min-width:768px) and (max-width:991.98px) {
+    .menu_fix .navbar-brand {
+        font-size: 44px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    .main_menu ul li a {
+        font-size: 14px;
+        margin-right: 6px;
+    }
+
+    .main_menu .navbar-brand {
+        font-size: 44px;
+    }
+
+    .img_inner {
+        -webkit-box-shadow: -200px -13px 0px 86px rgba(255, 206, 16, 1);
+        -moz-box-shadow: -200px -13px 0px 86px rgba(255, 206, 16, 1);
+        box-shadow: -170px -8px 0px 40px rgba(255, 206, 16, 1);
+    }
+
+    #banner_part {
+        padding: 80px 0 80px;
+        position: relative;
+    }
+
+    .ban_text {
+        padding: 00px 0;
+        position: relative;
+    }
+
+    .section_head h3 {
+        font-size: 34px;
+    }
+
+    .ban_text h1 {
+        font-size: 38px;
+    }
+
+    .ban_text #typed {
+        font-size: 30px;
+    }
+
+    .ban_text h4 {
+        font-size: 28px;
+    }
+
+    #banner_part .ban_style {
+        position: absolute;
+        bottom: 30px;
+        right: -100px;
+    }
+
+    #about_part {
+        padding: 0px 0 80px;
+    }
+
+    .about_text {
+        padding-top: 0px;
+    }
+
+    .about_text h4 {
+        font-size: 22px;
+        padding-bottom: 18px;
+    }
+
+    .about_text p {
+        font-size: 12px;
+        color: #fff;
+        padding-bottom: 18px;
+    }
+
+    .section-services {
+        padding-bottom: 80px;
+    }
+
+    .tab_inner h3 {
+        font-size: 26px;
+        font-weight: 600;
+    }
+
+    #experience_part {
+        padding-bottom: 80px;
+    }
+
+    .port_col {
+        margin-bottom: 48px;
+    }
+
+    #client_part {
+        padding: 60px 0;
+        position: relative;
+    }
+
+    .test_img::after {
+        display: none;
+    }
+
+    .taravora {
+        margin: 0px 35px;
+    }
+
+    .test_text p {
+        padding-right: 0px;
+    }
+
+    #contact_part {
+        padding: 80px 0;
+    }
+}
+
+@media(min-width:576px) and (max-width:767.98px) {
+    .menu_fix .navbar-brand {
+        font-size: 40px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+
+    .main_menu .navbar-brand {
+        font-size: 40px;
+    }
+
+    .menu_fix .menu_btn i {
+        color: #000;
+    }
+
+    .menu_btn i {
+        color: #ffce10;
+    }
+
+    .main_menu ul li a {
+        margin-right: 0px;
+    }
+
+    .img_inner {
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    }
+
+    #banner_part {
+        padding: 70px 0;
+        position: relative;
+    }
+
+    .ban_text h1 {
+        font-size: 48px;
+    }
+
+    #banner_part .ban_style {
+        position: absolute;
+        bottom: 45px;
+        right: -60px;
+        width: 300px;
+    }
+
+    #about_part {
+        padding: 0px 0 70px;
+    }
+
+    .section_head h3 {
+        font-size: 32px;
+    }
+
+    .img_inner_2::after {
+        display: none;
+    }
+
+    .img_inner_2::before {
+        display: none;
+    }
+
+    .section-services {
+        padding-bottom: 70px;
+    }
+
+    #experience_part {
+        padding-bottom: 60px;
+    }
+
+    .tab_inner {
+        margin-bottom: 32px;
+    }
+
+    .port_col {
+        margin-bottom: 32px;
+    }
+
+    #client_part {
+        padding: 60px 0;
+        position: relative;
+    }
+
+    .test_img::after {
+        display: none;
+    }
+
+    .taravora {
+        margin: 0px 35px;
+    }
+
+    .test_text p {
+        color: #fff;
+        font-size: 14px;
+        line-height: 26px;
+        padding-bottom: 8px;
+        padding-right: 0;
+        padding-top: 24px;
+    }
+
+    .con_col {
+        padding-top: 32px;
+    }
+
+    .foot_icon a {
+        margin-right: 18px;
+    }
+
+    #contact_part {
+        padding: 70px 0;
+    }
+}
+
+@media(max-width:576px) {
+    .test_img::after {
+        display: none;
+    }
+
+    .menu_fix .navbar-brand {
+        font-size: 40px;
+    }
+
+    .main_menu .navbar-brand {
+        font-size: 40px;
+    }
+
+    .menu_fix .menu_btn i {
+        color: #000;
+    }
+
+    .menu_btn i {
+        color: #ffce10;
+    }
+
+    .main_menu ul li a {
+        margin-right: 0px;
+    }
+
+    .img_inner {
+        -webkit-box-shadow: none;
+        -moz-box-shadow: none;
+        box-shadow: none;
+    }
+
+    #banner_part {
+        padding: 60px 0;
+        position: relative;
+    }
+
+    .ban_text {
+        text-align: center;
+    }
+
+    .ban_text h4 {
+        font-size: 24px;
+        padding-bottom: 20px;
+    }
+
+    .ban_text h1 {
+        font-size: 40px;
+        color: #ffce10;
+        padding-bottom: 24px;
+    }
+
+    .ban_text #typed {
+        font-size: 28px;
+    }
+
+    .ban_style {
+        display: none;
+    }
+
+    .ban_text {
+        padding: 0px 0;
+    }
+
+
+    /* About Part */
+    #about_part {
+        padding: 0px 0px 60px;
+    }
+
+    .about_text a i {
+        width: 40px;
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .about_text p {
+        font-size: 14px;
+    }
+
+    /* Services Part */
+    .section-services {
+        padding-bottom: 60px;
+    }
+
+    .tab_btn {
+        padding: 8px 12px !important;
+    }
+
+    /* experience part */
+    #experience_part {
+        padding-bottom: 50px;
+    }
+
+    .section_head h3 {
+        font-size: 32px;
+    }
+
+    .port_col {
+        margin-bottom: 32px;
+    }
+
+    #client_part {
+        padding: 60px 0;
+    }
+
+    .img_inner_2::after {
+        display: none;
+    }
+
+    .img_inner_2::before {
+        display: none;
+    }
+
+    .section_head {
+        padding-bottom: 40px;
+    }
+
+    .taravora {
+        margin: 0px 30px;
+    }
+
+    .navbar-toggler:focus {
+        box-shadow: none;
+    }
+
+    #contact_part {
+        padding: 60px 0;
+    }
+
+    .test_text p {
+        color: #fff;
+        font-size: 14px;
+        line-height: 26px;
+        padding-top: 24px;
+        padding-right: 0px;
+    }
+
+    .test_img::after {
+        left: 55px;
+        top: 15px;
+    }
+
+    .test_text {
+        text-align: center;
+    }
+
+    .foot_text {
+        text-align: center;
+        padding-top: 24px;
+    }
+
+    .icon_div {
+        text-align: center;
+    }
+
+    .con_col {
+        padding-top: 32px;
+    }
+
+    .con_col :last-child {
+        padding-bottom: 0px;
+    }
+
+    .foot_icon a {
+        margin: 0px 20px;
+    }
+
+    .backtotop {
+        right: 15px;
+        bottom: 20px;
+    }
+
+    .tab_inner {
+        margin-bottom: 32px;
+    }
+
+    .tab_inner h3 {
+        font-size: 24px;
+    }
+}
